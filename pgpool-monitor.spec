@@ -35,8 +35,8 @@ rm -rf $RPM_BUILD_ROOT
 %files
 %doc README.md
 %{python_sitelib}/*
-%attr(0755,-,-) %{_bindir}/pgpool_monitor
-%config(0640,-,-) %{_sysconfigdir}/pgpool_monitor.cfg
+%attr(0755,-,-) %{_bindir}/%{name}
+%config(noreplace) %attr(0640,-,-) %{_sysconfdir}/%{name}.cfg
 
 
 %changelog
