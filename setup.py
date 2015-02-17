@@ -16,7 +16,7 @@ if __name__ == "__main__":
         license = 'internal use',
         packages = [NAME],
         package_dir = {NAME: NAME},
-        data_files = [ ('/etc', ['pgpool_monitor.conf']) ],
+        data_files = [ ('/etc', ['pgpool_monitor.cfg']) ],
         description = "Send pgpool status to Zabbix",
 
         entry_points={
