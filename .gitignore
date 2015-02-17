@@ -54,6 +54,7 @@ docs/_build/
 
 # RPM stuff
 rpm-build/
+rpms/
 
 # pycharm dir
 .idea/
