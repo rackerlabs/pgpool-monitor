@@ -1,0 +1,3 @@
+recursive-include pgpool-monitor
+include README.md
+
