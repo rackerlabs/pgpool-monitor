@@ -9,7 +9,7 @@ if __name__ == "__main__":
 
     setup(
         name = NAME,
-        version = "0.0.1",
+        version = "0.1.0",
         author = "Alex Schultz",
         author_email = "alex.schultz@rackspace.com",
         url = "https://github.rackspace.com/cloud-integration-ops/pgpool-monitor",
