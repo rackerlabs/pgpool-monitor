@@ -190,7 +190,7 @@ class Status(object):
 if __name__ == '__main__':
     config = ConfigParser.SafeConfigParser()
     config.read([
-        '/etc/pgpool_monitor/pgpool_monitor.cfg',
+        '/etc/pgpool_monitor.cfg',
         'pgpool_monitor.cfg',
         os.path.expanduser('~/.pgpool_monitor.cfg'),
         ])
