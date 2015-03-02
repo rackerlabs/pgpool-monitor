@@ -31,7 +31,7 @@ make rpms
 How to report bugs
 ===============
 
-Visit http://github.rackspace.com/cloud-integration-ops/pgpool-monitor/issues
+Visit http://github.com/rackerlabs/pgpool-monitor/issues
 
 
 

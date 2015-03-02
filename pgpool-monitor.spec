@@ -8,7 +8,7 @@ Release:        1
 Summary:        Send pgpool status to Zabbix
 
 License:        Rackspace Internal
-URL:            https://github.rackspace.com/cloud-integration-ops/pgpool-monitor
+URL:            https://github.com/rackerlabs/pgpool-monitor
 Source0:        %{module_name}-%{version}.tar.gz
 
 BuildArch:      noarch

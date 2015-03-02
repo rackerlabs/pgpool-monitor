@@ -12,7 +12,7 @@ if __name__ == "__main__":
         version = "0.1.0",
         author = "Alex Schultz",
         author_email = "alex.schultz@rackspace.com",
-        url = "https://github.rackspace.com/cloud-integration-ops/pgpool-monitor",
+        url = "https://github.com/rackerlabs/pgpool-monitor",
         license = 'internal use',
         packages = [NAME],
         package_dir = {NAME: NAME},
